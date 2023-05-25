@@ -11,7 +11,7 @@ sudo npm install anywhere -g
 anywhere 
 ```
 
-图片要增加接触跨域属性
+图片要增加跨域属性 不然 canvas 还是回报跨域 
 ```
 <img src="" crossorigin="anonymous" alt="" />
 ```
